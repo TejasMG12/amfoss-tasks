@@ -2,7 +2,7 @@ Hi I am Tejas from Nagpur from Maharashtra, I am a fresher at Amrita School Engi
 
 | sr | Task | Status |
 | :-:   | :-: | :-:|
-| [00](https://github.com/TejasMG12/amfoss-tasks/tree/main/task-00) | Install Ubuntu | Completed |
+| [00](https://github.com/TejasMG12/amfoss-tasks/tree/main/task-01) | Install Ubuntu | Completed |
 | [01](https://github.com/TejasMG12/amfoss-tasks/tree/main/task-01) | Star all the amFOSS repositories | Completed |
 | [02](https://github.com/TejasMG12/amfoss-tasks/tree/main/task-00) | Terminal Hunt | Completed |
 | [03](https://github.com/TejasMG12/amfoss-tasks/tree/main/task-00) | Programming | Completed |
